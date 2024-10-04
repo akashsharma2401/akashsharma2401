@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashsharma2401
-- 👀 I’m interested in Java, SpringBoot, Hibernate and Data Structures and Algorithms
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Golang, GIN, GORM, Postgresql, Kafka, Redis, Java, SpringBoot, Hibernate and Data Structures and Algorithms
+- 🌱 I’m currently learning Distributed Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
